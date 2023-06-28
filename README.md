@@ -16,3 +16,6 @@ deltree /y c:\windows\cookies
 deltree /y c:\windows\recent
 deltree /y c:\windows\spool\printers
 cls
+
+
+thet
